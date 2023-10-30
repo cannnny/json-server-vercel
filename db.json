@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "id": 1,
+      "content": "Create React Appをインストールする",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "JSON Server仮のAPIを作成する",
+      "done": true
+    },
+    {
+      "id": 3,
+      "content": "Chakra UIをインストールする",
+      "done": true
+    },
+    {
+      "content": "サムネ作る",
+      "id": "01HDZ5CDQDX47NDMBFB17G665R",
+      "done": false
+    },
+    {
+      "content": "できることを星で評価する形式に変更",
+      "id": "01HDZ5DBCDMM84E4KAYASMKAHZ",
+      "done": false
+    },
+    {
+      "content": "使った言語をタグづけ",
+      "id": "01HDZ5DMN1P6ER5EEYZQ70CTF2",
+      "done": false
+    },
+    {
+      "content": "TODOリスト掲載する",
+      "id": "01HDZ5DV8KRKFHCBBQPHN665JG",
+      "done": false
+    },
+    {
+      "content": "TODOをクリックで編集できるようにしたい",
+      "id": "01HDZ5E7015EGXX2BNA0N2G0VE",
+      "done": false
+    }
+  ]
 }
